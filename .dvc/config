@@ -1,4 +1,4 @@
 [core]
     remote = wineremote
 ['remote "wineremote"']
-    url = s3://konjdajis-mlosp-dvc
+    url = s3://kondaji-dvc-buck-938095765974-ap-southeast-2-an
